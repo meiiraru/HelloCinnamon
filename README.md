@@ -1,0 +1,13 @@
+# Hello Cinnamon
+
+Template repository for projects utilizing the Cinnamon game engine.
+
+This template provides a basic structure and setup to help you get started with Cinnamon quickly.
+
+----------
+
+This template consists of:
+* The _gradle_ setup, with packaging (build) and dependency management.
+* The basic project structure with a main initializer for Cinnamon.
+* A simple example of a custom main menu using the Cinnamon UI system.
+* A basic example of a world with the player entity, terrain, and a respawning collectable item.
