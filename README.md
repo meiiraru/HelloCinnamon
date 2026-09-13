@@ -11,3 +11,4 @@ This template consists of:
 * The basic project structure with a main initializer for Cinnamon.
 * A simple example of a custom main menu using the Cinnamon UI system.
 * A basic example of a world with the player entity, terrain, and a respawning collectable item.
+* The structure to store and access namespaced resources (assets).
