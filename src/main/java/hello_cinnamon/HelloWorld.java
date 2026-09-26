@@ -39,7 +39,7 @@ public class HelloWorld extends WorldClient {
 
                         //feedback to the player
                         SoundManager.playSound(new Resource("hello_cinnamon", "sounds/eat1.ogg"), SoundCategory.ENTITY, getTransform().getPos());
-                        Toast.addToast("Score: " + HelloWorld.this.score);
+                        Toast.addToast("Score: " + HelloWorld.this.score).silent(true);
 
                         return true;
                     }
