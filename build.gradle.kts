@@ -13,7 +13,7 @@ version = "1.0.0"
 val mainClass = "hello_cinnamon.Main"
 
 //dependencies
-val cinnamonVersion = "0.5.2"
+val cinnamonVersion = "0.5.3"
 
 val lwjglModules = arrayOf(
     "lwjgl",
